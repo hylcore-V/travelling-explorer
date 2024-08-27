@@ -1,4 +1,4 @@
-# Travelling Explore
+# Travelling Explorer
 
 **Theme:** Travel across Indonesia, Nepal, and Thailand
 
